@@ -66,34 +66,3 @@ You can also download a test game created with this engine [here](https://drive.
    ```
    python3 Game.py
    ```
-
-## Detailed Project Information
-
-### C++ 2D Game Engine Details
-
-[Include the detailed information about the C++ project here, such as motivation, reasoning, workflow, and future work]
-
-### Python 2D Game Engine Details
-
-[Include the detailed information about the Python project here, such as motivation, reasoning, workflow, and future work]
-
-## Contributing
-
-Contributions to either project are welcome! Please refer to the individual project directories for specific contribution guidelines.
-
-## License
-
-Both projects are released under the MIT License. See the LICENSE file in each project directory for more details.
-
-## Acknowledgements
-
-- C++ Engine: Special thanks to the creators of SDL, glm, imgui, sol, and Lua.
-- Python Engine: Thanks to Craftpix.net for the sprites and Clear Code on YouTube for reference materials.
-
-## Contact
-
-Michael Elrod - [GitHub Profile](https://github.com/Michael-Elrod-dev)
-
-Project Links: 
-- [C++ 2D Game Engine](https://github.com/Michael-Elrod-dev/2DGameEngine)
-- [Python 2D Game Engine (Mythical Meadows)](https://github.com/Michael-Elrod-dev/Zombie-Lab)# 2D-Game-Engines
